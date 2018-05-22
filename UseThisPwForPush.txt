@@ -1,0 +1,19 @@
+
+/*
+If you enabled two-factor authentication in your Github account you won't be able to push via HTTPS using your accounts password. Instead you need to generate a personal access token. This can be done in the application settings of your Github account. Using this token as your password should allow you to push to your remote repository via HTTPS. Use your username as usual.
+
+The token is only visible once just after creation! See all your tokens in
+https://github.com/settings/tokens
+or, 
+https://github.com/settings/developers/ and then hit "Personal Access Tokens"
+
+Token Generated: 9c56ea18e48d9fcf228a911d59a94d46bfa6b2aa
+
+Read the whole process here:
+https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/
+
+*/
+
+git push -u origin master
+UserName: SaadAAkash
+Password: 9c56ea18e48d9fcf228a911d59a94d46bfa6b2aa
